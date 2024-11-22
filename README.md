@@ -1,26 +1,17 @@
-<h1>Hey, I'm Arik! <br/><a href="https://github.com/joshmadakor1">Analyst</a>, <a href="https://www.linkedin.com/in/arikmyers/">Business Analyst, Data Analyst</a>
+<h1>Spotify Song Data Exploratory Data Analysis</h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+ ### Jupyter Notebook
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<h2>Description</h2>
+Project consists of using dummy song data to explore trends among 50,000 unique songs. This was largely unguided and a basic demonstration of data analysis techniques in Python. I'm very familiar with SQL and refrained on relying on that knowledge to leverage and become more efficient with Python.
+<br />
 
-<h2>Certifications:</h2>
-  
-<h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/arikmyers
+<h2>Languages and Utilities Used</h2>
 
-<!--
-**AnalyzerArik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Python</b> 
+- <b>Kaggle dataset</b>
 
-Here are some ideas to get you started:
+<h2>Environments Used </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Kaggle browser notebook</b> (21H2)
