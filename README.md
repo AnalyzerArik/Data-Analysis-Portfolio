@@ -1,4 +1,4 @@
-<h1>Hey, I'm Arik! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Business Analyst, Data Analyst</a>
+<h1>Hey, I'm Arik! <br/><a href="https://github.com/joshmadakor1">Analyst</a>, <a href="https://www.linkedin.com/in/arikmyers/">Business Analyst, Data Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
