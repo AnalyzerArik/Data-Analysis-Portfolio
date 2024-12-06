@@ -4,7 +4,7 @@
 This project represents my second deep dive into Spotify song data, aimed at exploring audio features, playlist dynamics, and their impact on song popularity and streaming performance. Leveraging improved data analysis and visualization skills acquired through previous projects, this analysis provides actionable insights into trends over time, key audio features, and the factors that drive playlist success. The goal is to understand the elements that make songs engaging and popular while honing my data storytelling capabilities. This is a completely different dataset with information directly from the Spotify API.
 
 [Previous Analysis](https://github.com/AnalyzerArik/Spotify-Song-Data-Exploratory-Data-Analysis/blob/main/exploratory-data-analysis-of-spotify-song-data.ipynb) / 
-[Updated (Better) Analysis](https://github.com/AnalyzerArik/Spotify-Song-Data-Exploratory-Data-Analysis/blob/main/spotify-songs-data-analysis_v2.ipynb)
+[Updated (Better) Analysis](https://github.com/AnalyzerArik/Spotify-Song-Data-Exploratory-Data-Analysis/blob/main/spotify-songs-data-analysis-2.ipynb)
 ## Data Overview
 
 ### Dataset: Spotify Song Data
